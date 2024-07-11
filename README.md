@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things GenAI
 - 🌱 I’m currently learning RAG
 - 💞️ I’m looking to collaborate on building knowledge bases & virtual assistants
-- 📫 How to reach me aliciahassman@westfieldgrp.com
+- 📫 How to reach me ahassman242@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I just built a chicken run for my coop and adopted six chickens!
 
